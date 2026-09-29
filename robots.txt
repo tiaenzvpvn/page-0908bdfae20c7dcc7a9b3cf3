@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.youtojob.cn/sitemap.xml
